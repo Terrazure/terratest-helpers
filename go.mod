@@ -1,4 +1,4 @@
-module github.com/Terrazure/terratest-helpers.git
+module github.com/Terrazure/terratest-helpers
 
 go 1.19
 
